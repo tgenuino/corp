@@ -1,4 +1,2 @@
 corp
 ====
-
-CORP - Trend-I
